@@ -5,8 +5,16 @@ Post (and E-MAIL Kristina, Philip, and Aaron) your rough drafts for posters/ipyt
 
 Danielle will be filming your collaborative groups for the video. Notify her in class if you do NOT want to be filmed, and she will have a release form for those who participate.
 
-Details from David Lau (with edits for clarification) about the faire and how to prepare:
+For the science poster, please respond to Theresa's request:
+"
+Hi Stat 157,
+We are putting together the Seismology Poster and want to include all of your awesome work. Please edit this google doc with text and image links that you want to be a part of the science poster. Please write as you want it to appear on the poster as we will not have time for major edits. Remember this is due right at the beginning of class tomorrow so the edits must be done soon.
 
+https://docs.google.com/document/d/1qHOUggDnUlZSBdFRz8Mp48hafTGH13BZ8R-knUepTlQ/edit?usp=sharing
+"
+
+Details from David Lau (with edits for clarification) about the faire and how to prepare:
+"
 Tuesday and Wednesday will be spent refining, formatting, etc. of submitted material, and it should all be finalized by Wednesday night at dead latest. This is highly discouraged, being analogous to submitting a rough draft for a term paper.
 
 On Thursday, setup begins at 10:30 AM. It'll be in Sutardja-Dai hall (on campus, roughly between Evans and Soda Halls). It'll be an exhibition, with a bunch of tables in the common area. We'll be provided with two monitors that we can hookup to anything (laptops, probably) we please, and we'll have easels for our posterboards, of which we will have three (on the topics of science/seismology, reproducibility, and collaboration respectively). We'll probably want at least 3 people manning the table at all times. If I remember correctly, the faire runs at least until 2pm.
@@ -21,3 +29,4 @@ People to be available to present and answer questions at the tables in shifts
 Everyone needs to be prepared to talk about the project on demand
 
 Good luck, people.
+"
