@@ -15,7 +15,7 @@ Adjacent to the table area is Banatao Auditorium. Inside, various speakers will 
 
 In sum, what we need to produce:
 One iPython notebook
-Three posters
+2 Posters: Class management and reproducibility posters into 1 poster and 1 science poster
 One 3-minute speaker
 People to be available to present and answer questions at the tables in shifts
 Everyone needs to be prepared to talk about the project on demand
