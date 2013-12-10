@@ -11,7 +11,7 @@ Tuesday and Wednesday will be spent refining, formatting, etc. of submitted mate
 
 On Thursday, setup begins at 10:30 AM. It'll be in Sutardja-Dai hall (on campus, roughly between Evans and Soda Halls). It'll be an exhibition, with a bunch of tables in the common area. We'll be provided with two monitors that we can hookup to anything (laptops, probably) we please, and we'll have easels for our posterboards, of which we will have three (on the topics of science/seismology, reproducibility, and collaboration respectively). We'll probably want at least 3 people manning the table at all times. If I remember correctly, the faire runs at least until 2pm.
 
-Adjacent to the table area is Banatao Auditorium. Inside, various speakers will be giving 3 minute speeches about their respective projects. We will want to field a speaker of our own to represent our class (I'm looking at you, Carl). However, the rest of us will be responsible for talking about our project as well, should people at the faire ask us questions, regardless of whether or not we're the ones actively standing post at our table.
+Adjacent to the table area is Banatao Auditorium. Inside, various speakers will be giving 3 minute speeches about their respective projects. We will want to field a speaker of our own to represent our class. However, the rest of us will be responsible for talking about our project as well, should people at the faire ask us questions, regardless of whether or not we're the ones actively standing post at our table.
 
 In sum, what we need to produce:
 One iPython notebook
